@@ -1,4 +1,4 @@
-/*style.css*/
+Toperrer-positioner-positionyle.css*/
 /* General */
 body {
     margin: 0;
@@ -44,7 +44,7 @@ nav ul li a:hover { color: #e9ec32; }
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
-#about img { width: 200px; highet:200px;border-radius:50%;border-position: center Top }
+#about img { width: 200px; highet:200px;border-radius:50%;object-fit:cover; object-position: center Top;}
 .about-text { max-width: 500px; }
 
 /*education*/
@@ -59,7 +59,7 @@ nav ul li a:hover { color: #e9ec32; }
     margin: 15px auto;
     max-width: 600px;
     border-left: 5px solid #007bff;
-    border-radius: 10px;
+    bbox-shadowus: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
