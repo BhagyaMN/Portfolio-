@@ -45,30 +45,9 @@ nav ul li a:hover { color: #e9ec32; }
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about img { width: 200px; height: 200px; border-radius: 50%; object-fit:cover; object-position:center Top; }
 #about img { width: 200px; border-radius:50%border5px solid #110e0a; }
-.about-text { max-width: 500px; }
+.about-text { max-width: 500px; 
 
-#education {
-    background: #f9f9f9;
-    padding: 80px 20px;
-}
-
-.education-item {
-    background: #ffffff;
-    padding: 15px;
-    margin: 15px auto;
-    max-width: 500px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    text-align: center;
-}
-
-.education-item h3 {
-    margin-bottom: 5px;
-}
-
-.education-item p {
-    color: #555;
-}
+#education{background:linear -gradient(150deg, #da80ce,#d4713f);}
 
 /* Skills */
 #skills{ background: linear-gradient(135deg, #b85c9c, #d67447);}
