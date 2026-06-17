@@ -1,4 +1,4 @@
-/*style.csss*/
+/*style.css*/
 /* General */
 body {
     margin: 0;
@@ -43,11 +43,9 @@ nav ul li a:hover { color: #e9ec32; }
 
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
-#about img { width: 200px; height: 200px; border-radius: 50%; object-fit:cover; object-position:center Top; }
-#about img { width: 200px; border-radius:50%border5px solid #110e0a; }
-.about-text { max-width: 500px; 
-
-#education{background:linear -gradient(150deg, #da80ce,#d4713f);}
+#about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
+#about img { width: 300px; border-radius:50%border5px solid #110e0a; }
+.about-text { max-width: 500px; }
 
 /* Skills */
 #skills{ background: linear-gradient(135deg, #b85c9c, #d67447);}
