@@ -43,7 +43,7 @@ nav ul li a:hover { color: #e9ec32; }
 
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
-#about img { width: 200px; height: 200px; border-radius: 50%; object-fit: cover; }
+#about img { width: 200px; height: 200px; border-radius: 50%; object-fit:cover; object-position:center Top; }
 #about img { width: 200px; border-radius:50%border5px solid #110e0a; }
 .about-text { max-width: 500px; }
 
