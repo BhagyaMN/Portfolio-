@@ -44,16 +44,12 @@ nav ul li a:hover { color: #e9ec32; }
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
-#about img { width: 200px; highet:200px;border-radius:50%;object-fit:cover; object-position: center Top;}
+#about img { width: 1800px; highet:180px;border-radius:50%;object-fit:cover; object-position: center Top;}
 .about-text { max-width: 500px; }
 
 /*education*/
-#education {
-    padding: 60px 20px;
-    background-color: #f8f9fa;
-}
-
-.education-item {
+#education {background: linear-gradient(135deg, #b85c9c, #d67447);}
+    .education-item {
     background: #ffffff;
     padding: 20px;
     margin: 15px auto;
