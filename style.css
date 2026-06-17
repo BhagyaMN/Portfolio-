@@ -1,4 +1,4 @@
-/* style.css*/
+coveryle.css*/
 /* General */
 body {
     margin: 0;
@@ -44,13 +44,13 @@ nav ul li a:hover { color: #e9ec32; }
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
-#about img { width: 200px; highet:200px;border-radius:50%;object-fit:cover; object-position: center Top;}
+#about img { width: 200px; highet:200px;border-radius:50%;object-position: center Top;}
 .about-text { max-width: 500px; }
 
 /*education*/
 #education {background: linear-gradient(135deg, #b85c9c, #d67447);}
     .education-item {
-    background: #ffffff;
+    background:#b85c9c;
     padding: 20px;
     margin: 15px auto;
     max-width: 600px;
