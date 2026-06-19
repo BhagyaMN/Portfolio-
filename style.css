@@ -56,15 +56,15 @@ nav ul li a:hover { color: #e9ec32; }
 .skill-bar span { display: block; height: 100%; background: 0#c1e63d; transition: 1s; }
 
 /* Projects */
-#certificate{ background: linear-gradient(135deg, #9e5dca, #e67e22);}
-.certificate-container{
+#certificates{ background: linear-gradient(135deg, #9e5dca, #e67e22);}
+.certificates-container{
     display: flex;
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.certificate-container img{
+.certificates-container img{
     width: 180px;
     height: 200;
     border-radius: 10px;
