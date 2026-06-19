@@ -1,4 +1,4 @@
-/*style.css*/
+border5pxrryle.css*/
 /* General */
 body {
     margin: 0;
@@ -44,7 +44,7 @@ nav ul li a:hover { color: #e9ec32; }
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
-#about img { width: 200px;height:200px; border-radius:50%;object-fit:cover;border5px solid #110e0a; }
+#about img { width: 200px;height:200px; border-radius:50%;object-fit:contain;border5px solid #110e0a; }
 .about-text { max-width: 500px; }
 
 /* Skills */
@@ -52,7 +52,7 @@ nav ul li a:hover { color: #e9ec32; }
 .skills-container { max-width: 1000px; margin: auto; }
 .skill { margin-bottom: 20px; }
 .skill h3 { margin-bottom: 5px; }
-.skill-bar { background: #fdfbfc; border-radius: 50px; overflow: hidden; height: 20px; }
+.skill-bar { background: #fdfbfc; border-radius:overflow: hidden; height: 20px; }
 .skill-bar span { display: block; height: 100%; background: 0#c1e63d; transition: 1s; }
 
 /* Projects */
