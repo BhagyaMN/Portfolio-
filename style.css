@@ -1,4 +1,4 @@
-/*.css*/
+border5pxntainntain.css*/
 /* General */
 body {
     margin: 0;
@@ -44,7 +44,7 @@ nav ul li a:hover { color: #e9ec32; }
 /* About */
 #about{ background: linear-gradient(150deg, #da80ce, #d4713f);}
 #about { display: flex; flex-wrap: wrap; justify-content: left; align-items: center; gap:50px; padding: 100px 50px; }
-#about img { width: 180px;height:180px; border-radius:50%;object-fit:contain;border5px solid #110e0a; }
+#about img { width: 200px;height:200px; border-radius:50%;object-fit:cover;border5px solid #110e0a; }
 .about-text { max-width: 500px; }
 
 /* Skills */
