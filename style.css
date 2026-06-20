@@ -58,18 +58,17 @@ nav ul li a:hover { color: #e9ec32; }
 
 /* Projects */
 #certificates{ background: linear-gradient(135deg, #9e5dca, #e67e22);}
-.certificates-container{
+.certificate-container{
     display: flex;
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-
-.certificates-img{
+.certificate-img{
     width: 250px;
-    max-width: 100%;
-    height: auto;
+    height: 200px;
+    object-fit: contain;
     display: block;
     margin: auto;
 }
