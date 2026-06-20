@@ -64,11 +64,13 @@ nav ul li a:hover { color: #e9ec32; }
     flex-wrap: wrap;
 }
 
-.certificates-container img {
-    width:180px;
-    height:200px;
-    object-fit:contain ;
-    border-reduse:10px;
+
+.certificates-img{
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 /*/
 .projects-container { display: flex; flex-wrap: wrap; justify-content: center; }
