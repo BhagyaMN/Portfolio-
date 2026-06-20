@@ -90,7 +90,7 @@ nav ul li a:hover { color: #e9ec32; }
 }
 
 #resume{ background: linear-gradient(135deg, #9e5dca, #e67e22);}
-#resume button {
+ #resume button {
     padding: 10px 20px;
     margin: 10px;
     background-color: #4CAF50;
@@ -98,7 +98,7 @@ nav ul li a:hover { color: #e9ec32; }
     border: none;
     border-radius: 5px;
     cursor: pointer;
-}
+ }
 
 #resume button:hover {
     background-color: #4CAF50;
