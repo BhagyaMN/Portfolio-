@@ -17,7 +17,8 @@ nav {
     color: #fff;
     padding: 1rem 2rem;
     position: fixed;
-    width: 94%;
+    width: 100%;
+    box-sizing:border-box;
     z-index:1500;
 }
 
@@ -112,4 +113,13 @@ footer a { color: #f39c12; margin: 0 10px; }
 @media (max-width: 768px) {
     #about { flex-direction: column; }
     nav ul { flex-direction: column; display: none; }
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    overflow-x: hidden;
 }
